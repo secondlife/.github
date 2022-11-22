@@ -1,133 +1,78 @@
+# COMMUNITY STANDARDS
 
-# Contributor Covenant Code of Conduct
+Linden Lab offers users the ability to create and share content, and fosters communities for users to interact with each other and freely express themselves through Linden Lab’s various interactive products and services.
 
-## Our Pledge
+To help promote respect, peace, and an enjoyable experience for all users, this set of Community Standards applies to all products, services, and environments offered or hosted by Linden Lab, including but not limited to, its websites, servers, software, forums, and blogs (as further defined in the Terms of Service, the “Service”).
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, caste, color, religion, or sexual
-identity and orientation.
+These Standards set out actions that could result in restrictions on your access to the Service, up to and including account termination.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+## Behavioral Standards
 
-## Our Standards
+### Intolerance
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+Linden Lab encourages social interactions between users across multiple countries. The use of derogatory or demeaning language or images based on race, ethnicity, gender, religion or sexual orientation is prohibited. Actions that marginalize, belittle, or defame users or groups are similarly prohibited.  
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall
-  community
+### Harassment
 
-Examples of unacceptable behavior include:
+Harassment can take many forms. Communicating or behaving in a manner that is offensively coarse, intimidating, threatening, or causes annoyance or alarm is not allowed.
 
-* The use of sexualized language or imagery, and sexual attention or advances of
-  any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address,
-  without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+### Assault
 
-## Enforcement Responsibilities
+Any act of violence toward a user’s avatar, including an act of intimidation or bullying such as repeatedly shooting or pushing, will not be tolerated. Creating or using scripts that singularly or persistently target a user and prevent a user’s enjoyment of the Service is also not allowed.
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+### Invasion of Personal Space/Comfort Zones
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+It is important to respect the personal space of another user. We strongly encourage you to be mindful of your movement, hand gestures, and your avatar’s positioning relative to other avatars.
 
-## Scope
+### Inappropriate Content
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+All content, activity, and communication within the Service must adhere to the Content Guidelines, including but not limited to, abiding by any limitations on the type of content permissible in certain areas of the Service.
+
+In Second Life, Adult Content is only permitted on Private Regions designated as ‘Adult’ and on the Mainland continent, ‘Zindra’. Private Regions designated as ‘Adult’ will be filtered from non-verified Second Life accounts.
+
+### Disclosure
+
+Sharing personal information about other users, either directly or indirectly, without their consent—including, but not limited to, gender, religion, age, marital status, race, sexual orientation, alternate account names (including account statuses, such as whether it is on hold, suspended, or active), and real-world location beyond what is provided by them in their user profile—is not allowed. Except for the purpose of reporting abuse or any violation of policies to Linden Lab, the remote monitoring, posting or sharing of conversations without a participant’s consent are prohibited.
+
+### Disturbing the Peace/Global Attacks
+
+Linden Lab aims to provide users with an enjoyable experience on the Service. Please be mindful that your actions may cause slow server performance or may inhibit another user’s ability to enjoy the Service. Examples of prohibited attempts to disturb the peace include, but are not limited to:
+
+- Manipulating scripts;
+- Repeated transmission of undesired content;
+- Spawning items;
+- Disrupting events or user conversations, such as through the use of repetitive sounds, causing echo effects, or unmuting your mic when it should be muted;
+- Spamming, such as the repeated posting of advertising or self-promotional content;
+- Posting interpersonal disputes or personal negative commentary publicly when such communications should occur through private channels of communication;
+- Flaming, such as hostile or disruptive posts intended to incite an angry response or to encourage other users to violate Linden Lab’s policies; and
+- Abusing Linden Lab personnel or moderators (as applicable on a forum operated by Linden Lab), such as re-posting content that has been removed, suspended or locked, or posting content that questions a moderator’s decision or competence (as applicable on a forum operated by Linden Lab).   
+
+### Impersonation
+
+Impersonation of another user, stealing another user’s identity, or claiming recognition for content created by another user are all strictly prohibited. Additionally, the impersonation of a Linden Lab employee will result in immediate account termination.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-contributions@lindenlab.com.
-All complaints will be reviewed and investigated promptly and fairly.
+### Warning, Suspension, Termination
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+In most cases, a user’s first violation of the Community Standards will result in a warning. If there are future violations, the user’s account(s) may be suspended and ultimately terminated if the behavior persists.
 
-## Enforcement Guidelines
+### Buyer Beware
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+Linden Lab does not exercise editorial control over, and is not obligated to review, the content offered through the Service. We will investigate and respond to all properly filed intellectual property complaints pursuant to the Intellectual Property Infringement Notification Policy.
 
-### 1. Correction
+Additionally, Linden Lab does not certify or endorse the operation of any games, vending machines, or retail locations offered on the Service. Any refunds must be requested from the owners of such objects directly.
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+### Reporting Abuse
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+Linden Lab strongly encourages users to report violations of the Community Standards or any other policies. Linden Lab reviews all such reports of abuse and will keep the identity of the reporter strictly confidential.
 
-### 2. Warning
+If you encounter content that violates these Guidelines, you can report abuse as follows:
 
-**Community Impact**: A violation through a single incident or series of
-actions.
+- [File an abuse report](https://community.secondlife.com/knowledgebase/english/filing-an-abuse-report-r25/)
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or permanent
-ban.
+## Links
 
-### 3. Temporary Ban
+- [lindenlab.com/legal/community-standards](https://www.lindenlab.com/legal/community-standards)
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
-
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
-
-### 4. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within the
-community.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
-
-Community Impact Guidelines were inspired by
-[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
-
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
-[https://www.contributor-covenant.org/translations][translations].
-
-[homepage]: https://www.contributor-covenant.org
-[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+Effective: August 8, 2017
