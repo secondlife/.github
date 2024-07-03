@@ -1,78 +1,56 @@
-# COMMUNITY STANDARDS
+# Code of Conduct
 
-Linden Lab offers users the ability to create and share content, and fosters communities for users to interact with each other and freely express themselves through Linden Lab’s various interactive products and services.
+These guidelines apply to all official development communication channels
+(GitHub, Slack, mailing lists, discord, forums) and activities that take place
+on secondlife.com and in-world and are provided in addition to Second Life's
+general [Community Standards][].
 
-To help promote respect, peace, and an enjoyable experience for all users, this set of Community Standards applies to all products, services, and environments offered or hosted by Linden Lab, including but not limited to, its websites, servers, software, forums, and blogs (as further defined in the Terms of Service, the “Service”).
+Reports of violations can be sent to opensource-moderators@lindenlab.com and
+will get handled on a case by case basis. Debate about infractions is always
+off-topic in our mailing lists and forums.
 
-These Standards set out actions that could result in restrictions on your access to the Service, up to and including account termination.
+We recognize that misunderstandings and mistakes can happen. We will only take
+actions after repeated intentional violations.
 
-## Behavioral Standards
+#### Be respectful and considerate:
 
-### Intolerance
+- Disagreement is no excuse for poor behavior or personal attacks.
+- Remember that a community where people feel uncomfortable is not a productive
+  one.
 
-Linden Lab encourages social interactions between users across multiple countries. The use of derogatory or demeaning language or images based on race, ethnicity, gender, religion or sexual orientation is prohibited. Actions that marginalize, belittle, or defame users or groups are similarly prohibited.  
+#### Be patient and generous:
 
-### Harassment
+- If someone asks for help it is because they need it.
+- Do politely suggest specific documentation or more appropriate venues where
+  appropriate, but avoid aggressive or vague responses.
 
-Harassment can take many forms. Communicating or behaving in a manner that is offensively coarse, intimidating, threatening, or causes annoyance or alarm is not allowed.
+#### Assume people mean well:
 
-### Assault
+- Remember that decisions are often a difficult choice between competing
+  priorities.
+- If you disagree, please do so politely.
+- If something seems outrageous, check that you did not misinterpret it.
+- Ask for clarification, but do not assume the worst.
 
-Any act of violence toward a user’s avatar, including an act of intimidation or bullying such as repeatedly shooting or pushing, will not be tolerated. Creating or using scripts that singularly or persistently target a user and prevent a user’s enjoyment of the Service is also not allowed.
+#### Help others help you:
 
-### Invasion of Personal Space/Comfort Zones
+- When asking a question, meet others halfway. Let them know what you've already
+  tried or where you've already looked.
+- Be respectful of others' time. Follow the advice in [How to Ask Smart Questions][smart].
 
-It is important to respect the personal space of another user. We strongly encourage you to be mindful of your movement, hand gestures, and your avatar’s positioning relative to other avatars.
+#### Try to be concise:
 
-### Inappropriate Content
+- Avoid repeating what has been said already.
+- Making a conversation larger makes it difficult to follow, and people often
+  feel personally attacked if they receive multiple messages telling them the
+  same thing.
 
-All content, activity, and communication within the Service must adhere to the Content Guidelines, including but not limited to, abiding by any limitations on the type of content permissible in certain areas of the Service.
+---
 
-In Second Life, Adult Content is only permitted on Private Regions designated as ‘Adult’ and on the Mainland continent, ‘Zindra’. Private Regions designated as ‘Adult’ will be filtered from non-verified Second Life accounts.
+*These guidelines are adapted from the Blender Developer Documentation Team's
+original [Code of Conduct][blender-coc] and are available under a CC-BY-SA 4.0
+Int. license.*
 
-### Disclosure
-
-Sharing personal information about other users, either directly or indirectly, without their consent—including, but not limited to, gender, religion, age, marital status, race, sexual orientation, alternate account names (including account statuses, such as whether it is on hold, suspended, or active), and real-world location beyond what is provided by them in their user profile—is not allowed. Except for the purpose of reporting abuse or any violation of policies to Linden Lab, the remote monitoring, posting or sharing of conversations without a participant’s consent are prohibited.
-
-### Disturbing the Peace/Global Attacks
-
-Linden Lab aims to provide users with an enjoyable experience on the Service. Please be mindful that your actions may cause slow server performance or may inhibit another user’s ability to enjoy the Service. Examples of prohibited attempts to disturb the peace include, but are not limited to:
-
-- Manipulating scripts;
-- Repeated transmission of undesired content;
-- Spawning items;
-- Disrupting events or user conversations, such as through the use of repetitive sounds, causing echo effects, or unmuting your mic when it should be muted;
-- Spamming, such as the repeated posting of advertising or self-promotional content;
-- Posting interpersonal disputes or personal negative commentary publicly when such communications should occur through private channels of communication;
-- Flaming, such as hostile or disruptive posts intended to incite an angry response or to encourage other users to violate Linden Lab’s policies; and
-- Abusing Linden Lab personnel or moderators (as applicable on a forum operated by Linden Lab), such as re-posting content that has been removed, suspended or locked, or posting content that questions a moderator’s decision or competence (as applicable on a forum operated by Linden Lab).   
-
-### Impersonation
-
-Impersonation of another user, stealing another user’s identity, or claiming recognition for content created by another user are all strictly prohibited. Additionally, the impersonation of a Linden Lab employee will result in immediate account termination.
-
-## Enforcement
-
-### Warning, Suspension, Termination
-
-In most cases, a user’s first violation of the Community Standards will result in a warning. If there are future violations, the user’s account(s) may be suspended and ultimately terminated if the behavior persists.
-
-### Buyer Beware
-
-Linden Lab does not exercise editorial control over, and is not obligated to review, the content offered through the Service. We will investigate and respond to all properly filed intellectual property complaints pursuant to the Intellectual Property Infringement Notification Policy.
-
-Additionally, Linden Lab does not certify or endorse the operation of any games, vending machines, or retail locations offered on the Service. Any refunds must be requested from the owners of such objects directly.
-
-### Reporting Abuse
-
-Linden Lab strongly encourages users to report violations of the Community Standards or any other policies. Linden Lab reviews all such reports of abuse and will keep the identity of the reporter strictly confidential.
-
-If you encounter content that violates these Guidelines, you can report abuse as follows:
-
-- [File an abuse report](https://community.secondlife.com/knowledgebase/english/filing-an-abuse-report-r25/)
-
-## Links
-
-- [lindenlab.com/legal/community-standards](https://www.lindenlab.com/legal/community-standards)
-
-Effective: August 8, 2017
+[blender-coc]: https://developer.blender.org/docs/handbook/communication/code_of_conduct/
+[Community Standards]: https://www.lindenlab.com/legal/community-standards
+[smart]: http://www.catb.org/~esr/faqs/smart-questions.html
