@@ -13,7 +13,6 @@ If an issue poses any of the following threats to Second Life, its Residents or 
 
 ## Filing issues
 There are two ways to file security reports:
-*  In the SEC project on [jira.secondlife.com](http://jira.secondlife.com) (PREFERRED). It's **VERY IMPORTANT** that you file issues in the SEC project, which is the only project set up so that only the reporter and Linden Lab can view the issue.
 *  Via email: [security@lindenlab.com](mailto:security@lindenlab.com)
 
 > [!WARNING]
