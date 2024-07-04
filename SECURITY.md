@@ -16,7 +16,7 @@ There are two ways to file security reports:
 *  Via email: [security@lindenlab.com](mailto:security@lindenlab.com)
 
 > [!WARNING]
-> The SEC project (and security mailing list) is **ONLY for reporting security exploits** that might compromise a Residents identity or the Second Life Grid. All other requests including account issues and account security via this address will **not** be addressed.
+> The Security mailing list is **ONLY for reporting security exploits** that might compromise a Residents identity or the Second Life Grid. All other requests including account issues and account security via this address will **not** be addressed.
 
 ## For other issues:
 *  If you believe your account has been breached please attempt to change your password immediately and also  [contact support](http://secondlife.com/community/support.php).
