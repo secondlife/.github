@@ -9,7 +9,7 @@ If an issue poses any of the following threats to Second Life, its Residents or 
 * Permits unauthorized access to Second Life / Linden Lab resources
 * Compromises a client or server host subjecting it to remote control
 
-**When reporting an exploit, please provide as much detail as possible**, Including the environment used (e.g. Windows XP Service Pack 2, Nvidia 6800 etc ) and the complete reproduction case. Linden Lab offers a L$10,000 bounty for each previously unknown exploit that can be verified.  Please report issues as soon as they are discovered!
+**When reporting an exploit, please provide as much detail as possible**, Including the environment used (e.g. Windows XP Service Pack 2, Nvidia 6800, etc) and the complete reproduction case. Linden Lab offers a L$10,000 bounty for each previously unknown exploit that can be verified.  Please report issues as soon as they are discovered!
 
 ## Filing issues
 There are two ways to file security reports:
