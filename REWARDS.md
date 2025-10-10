@@ -6,16 +6,68 @@ Our bounties can apply to any type of issue. If an issue has an associated rewar
 
 ## How to Claim a Reward (Process)
 
-1. **Find a Reward Issue:** Look for open issues with bounties (the Opire bot may comment with a reward amount). Choose an issue you want to work on and make sure no one else is already exclusively assigned (see Exclusive Windows below).
-2. **Ask for Clarification if Needed:** If anything about the issue is unclear, please ask questions first by commenting on the issue. It’s better to clarify requirements up front than to do rework later. Maintainers are happy to provide guidance to ensure you’re on the right track.
-3. **Announce Your Intent:** To avoid duplicate efforts, let others know you’re working on the issue. You can simply comment that you plan to work on it, or use the Opire command /try on the issue to signal that you intend to solve it. (If you’re not the first to try, Opire will list others who are also attempting the issue, so you can coordinate or be aware.) Announcing your intent is not required, but it’s strongly encouraged: it helps maintainers and other contributors know the issue is being actively worked on.
-4. **Respect Exclusive Windows:** In some cases, a maintainer might grant a contributor an exclusive time window to work on a reward issue. This is to prevent multiple people doing redundant work. If we decide to do this, we will leave a comment on the issue explicitly stating who has exclusive rights and until what date/time. (There’s no special command or bot status for this: we’ll communicate it in the comments.) Please respect these exclusive blocks: if someone else has an active exclusive window on the issue, do not start work on it until that period expires or the maintainer opens it up again. Conversely, if you’ve been given an exclusive window but can’t continue, let us know so we can release the issue to others.
-5. **Develop Your Solution:** Fork the repository and implement the needed changes to fix the bug or implement the feature. Follow our coding standards and make sure your solution addresses all acceptance criteria. This includes writing or updating tests and documentation if applicable. Aim to write clean, readable code that fits with the project’s style.
-6. **Submit a Pull Request:** Once your changes are ready:
+### For Issues Open for Bidding
+
+Some issues will be marked as **open for bidding** (indicated by the label `🎯 open-for-bids` or a maintainer comment). For these issues, we invite contributors to submit bids before work begins. This helps us match contributors with appropriate work and set fair compensation.
+
+1. **Find a Bidding Issue:** Look for open issues labeled `🎯 open-for-bids`. Read the issue description carefully to understand the requirements and scope.
+2. **Ask for Clarification if Needed:** If anything about the issue is unclear, please ask questions first by commenting on the issue. It's better to clarify requirements up front than to submit an inaccurate bid.
+3. **Submit Your Bid:** To bid on an issue, post a comment using the following format:
+
+   ```
+   /bid
+   Amount: $[USD amount]
+   Time: [estimated time with units]
+   Approach: [brief description of your proposed solution]
+   ```
+
+   **Example:**
+   ```
+   /bid
+   Amount: $250
+   Time: 5 days
+   Approach: I'll refactor the mesh loading pipeline to use async processing and add caching for frequently accessed assets. This will involve modifying the LLMeshRepository class and adding unit tests for the new cache layer.
+   ```
+
+   **Bid Requirements:**
+   - **Amount:** Must be in USD (e.g., $100, $250, $500)
+   - **Time:** Include units (e.g., "3 days", "1 week", "2 weeks")
+   - **Approach:** A concise technical description (2-4 sentences) of how you plan to solve the issue. This shows you understand the problem and have a reasonable solution path.
+
+4. **Bid Review:** Maintainers will review submitted bids based on:
+   - Technical approach feasibility and quality
+   - Contributor's track record and expertise
+   - Time estimate reasonableness
+   - Budget considerations
+
+   We aim to review bids within 3-5 business days. The lowest bid doesn't automatically win: we prioritize quality and feasibility.
+
+5. **Bid Acceptance:** When a bid is accepted, the maintainer will:
+   - Comment on the issue stating the accepted bid and contributor
+   - Grant an exclusive time window (typically your estimated time + 20% buffer)
+   - Set up the reward amount via Opire
+
+   Only the selected contributor should proceed with work on the issue during this exclusive window.
+
+### For Pre-Set Reward Issues
+
+For issues that already have a fixed reward amount (indicated by the Opire bot or `💎 reward` label), follow this process:
+
+1. **Find a Reward Issue:** Look for open issues with bounties. Choose an issue you want to work on and make sure no one else is already exclusively assigned.
+2. **Ask for Clarification if Needed:** If anything about the issue is unclear, please ask questions first by commenting on the issue. It's better to clarify requirements up front than to do rework later. Maintainers are happy to provide guidance to ensure you're on the right track.
+3. **Announce Your Intent:** To avoid duplicate efforts, let others know you're working on the issue. You can simply comment that you plan to work on it, or use the Opire command /try on the issue to signal that you intend to solve it. (If you're not the first to try, Opire will list others who are also attempting the issue, so you can coordinate or be aware.) Announcing your intent is not required, but it's strongly encouraged: it helps maintainers and other contributors know the issue is being actively worked on.
+
+### Implementation and Submission (All Reward Issues)
+
+Once you've been assigned work (either through bid acceptance or by announcing intent on a pre-set reward issue):
+
+1. **Respect Exclusive Windows:** In some cases, a maintainer might grant a contributor an exclusive time window to work on a reward issue. This is to prevent multiple people doing redundant work. If we decide to do this, we will leave a comment on the issue explicitly stating who has exclusive rights and until what date/time. (There's no special command or bot status for this: we'll communicate it in the comments.) Please respect these exclusive blocks: if someone else has an active exclusive window on the issue, do not start work on it until that period expires or the maintainer opens it up again. Conversely, if you've been given an exclusive window but can't continue, let us know so we can release the issue to others.
+2. **Develop Your Solution:** Fork the repository and implement the needed changes to fix the bug or implement the feature. Follow our coding standards and make sure your solution addresses all acceptance criteria. This includes writing or updating tests and documentation if applicable. Aim to write clean, readable code that fits with the project's style.
+3. **Submit a Pull Request:** Once your changes are ready:
     1. **Title & Description:** Open a PR with a clear title and description of your changes. Reference the issue number (e.g., "Fixes #123") so it links to the reward issue.
-    2. **Demo Video:** Include a short demo video in your PR description demonstrating your changes in action (for example, a quick screencast or animated GIF). This is required to claim the reward: it allows us to quickly verify the functionality you’ve added or fixed. A 30-60 second video showing the feature or bug fix is usually sufficient.
+    2. **Demo Video:** Include a short demo video in your PR description demonstrating your changes in action (for example, a quick screencast or animated GIF). This is required to claim the reward: it allows us to quickly verify the functionality you've added or fixed. A 30-60 second video showing the feature or bug fix is usually sufficient.
     3. **Claim the Reward:** In the PR description or as a comment on your PR, use the Opire command to claim the reward for the issue. For example, if the issue is #123, comment /claim #123. This will notify the reward creators (sponsors) that you believe the issue is resolved and are claiming the reward. (The Opire bot only recognizes this command when creating a PR or comment, not edits        , so make sure to do it in a new comment or in the initial PR message.)
-7. **Follow Up:** After submitting, keep an eye on your PR for feedback or review comments. Be ready to make revisions if the maintainers request changes. Prompt responses and updates will help get your contribution merged faster, which is also in your interest for receiving the reward.
+4. **Follow Up:** After submitting, keep an eye on your PR for feedback or review comments. Be ready to make revisions if the maintainers request changes. Prompt responses and updates will help get your contribution merged faster, which is also in your interest for receiving the reward.
 
 ## Pull Request Quality Standards
 
