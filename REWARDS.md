@@ -17,7 +17,7 @@ Some issues will be marked as **open for bidding** (indicated by the label `🎯
    ```
    /bid
    Amount: $[USD amount]
-   Time: [estimated time with units]
+   Time: [estimated time with completion date]
    Approach: [brief description of your proposed solution]
    ```
 
@@ -31,7 +31,7 @@ Some issues will be marked as **open for bidding** (indicated by the label `🎯
 
    **Bid Requirements:**
    - **Amount:** Must be in USD (e.g., $100, $250, $500)
-   - **Time:** Include units (e.g., "3 days", "1 week", "2 weeks")
+   - **Time:** Include estimated completion date or amount of time (e.g., "Done: Friday, October 10, 5pm", "1 week", "2 weeks")
    - **Approach:** A concise technical description (2-4 sentences) of how you plan to solve the issue. This shows you understand the problem and have a reasonable solution path.
 
 4. **Bid Review:** Maintainers will review submitted bids based on:
